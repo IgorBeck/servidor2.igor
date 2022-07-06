@@ -4,10 +4,7 @@
  </head>
  <body>
   <p>SERVIDOR 2</p>
-  <p>Nome dos alunos na equipe</p>
-  <p>Igor</p>
-  <p>Johan</p>
-  <p></p>
-  <object data="fluxograma.pdf" height="100%" width="100%"></object>
+ <p>Nome dos alunos na equipe: Igor e Johan</p>
+  <p>Neste servidor esta armazenado o pdf</p> 
  </body>
 </html>
